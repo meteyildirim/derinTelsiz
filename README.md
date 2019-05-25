@@ -1,2 +1,2 @@
 # derinTelsiz
-derin telsiz haberleşme
+derin öğrenmenin haberlşemye olan uygulmaları incelenecek.
